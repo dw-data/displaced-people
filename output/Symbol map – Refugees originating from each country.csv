@@ -1,0 +1,191 @@
+Country of origin,Country of origin (ISO),Total refugees
+Afghanistan,AFG,6403144.0
+Syria,SYR,6355788.0
+Venezuela,VEN,6103058.0
+Palestinian Territories,PSE,5977324.0
+Ukraine,UKR,5960362.0
+South Sudan,SSD,2292482.0
+Sudan,SDN,1496923.0
+Myanmar,MMR,1283426.0
+DR Congo,COD,978209.0
+Somalia,SOM,842044.0
+Central African Rep.,CAF,759187.0
+Eritrea,ERI,559853.0
+Nigeria,NGA,410308.0
+Iraq,IRQ,329032.0
+Burundi,BDI,319857.0
+Rwanda,RWA,249955.0
+Mali,MLI,249046.0
+Unknown ,UNK,179252.0
+China,CHN,160565.0
+Ethiopia,ETH,158344.0
+Azerbaijan,AZE,158098.0
+Iran,IRN,151757.0
+Sri Lanka,LKA,145319.0
+Türkiye,TUR,127738.0
+Haiti,HTI,122139.0
+Colombia,COL,115513.0
+Cameroon,CMR,110715.0
+Pakistan,PAK,94481.0
+Western Sahara,ESH,90974.0
+Russian Federation,RUS,86135.0
+Honduras,HND,84363.0
+El Salvador,SLV,68633.0
+Burkina Faso,BFA,54869.0
+Stateless,XXA,51912.0
+Yemen,YEM,48044.0
+Guinea,GIN,38585.0
+Mauritania,MRT,37532.0
+Guatemala,GTM,34010.0
+Serbia and Kosovo: S/RES/1244 (1999),SRB,29807.0
+Cote d'Ivoire,CIV,25994.0
+Nicaragua,NIC,25483.0
+India,IND,25319.0
+Niger,NER,24794.0
+Bangladesh,BGD,24126.0
+Egypt,EGY,23160.0
+Albania,ALB,21919.0
+Mexico,MEX,21869.0
+Bosnia and Herzegovina,BIH,19318.0
+Cuba,CUB,18560.0
+Viet Nam,VNM,18339.0
+Libya,LBY,17958.0
+Croatia,HRV,17579.0
+Armenia,ARM,15072.0
+Belarus,BLR,15071.0
+Georgia,GEO,14695.0
+Ghana,GHA,13870.0
+Congo,COG,13820.0
+Tibetan,TIB,12575.0
+Senegal,SEN,11924.0
+Indonesia,IDN,11756.0
+Cambodia,KHM,11624.0
+Angola,AGO,11506.0
+Chad,TCD,10196.0
+Morocco,MAR,8827.0
+Uganda,UGA,8376.0
+Gambia,GMB,8107.0
+Kenya,KEN,8004.0
+Togo,TGO,7955.0
+Algeria,DZA,7629.0
+Zimbabwe,ZWE,7460.0
+Sierra Leone,SLE,7445.0
+Lebanon,LBN,7392.0
+Nepal,NPL,7229.0
+Bhutan,BTN,6676.0
+Lao People's Dem. Rep.,LAO,6551.0
+Rep. of Moldova,MDA,5343.0
+Liberia,LBR,4838.0
+Peru,PER,4724.0
+Uzbekistan,UZB,4440.0
+Ecuador,ECU,4244.0
+Jordan,JOR,3978.0
+Brazil,BRA,3798.0
+Kazakhstan,KAZ,3795.0
+Tajikistan,TJK,3720.0
+Kyrgyzstan,KGZ,3324.0
+Tunisia,TUN,2800.0
+Mongolia,MNG,2393.0
+Kuwait,KWT,2276.0
+Comoros,COM,2194.0
+Hungary,HUN,2147.0
+Jamaica,JAM,2128.0
+Saudi Arabia,SAU,2090.0
+North Macedonia,MKD,1938.0
+Chile,CHL,1901.0
+Guinea-Bissau,GNB,1859.0
+Turkmenistan,TKM,1848.0
+Djibouti,DJI,1840.0
+Romania,ROU,1825.0
+United States of America,USA,1229.0
+Bahamas,BHS,1067.0
+Malaysia,MYS,999.0
+United Rep. of Tanzania,TZA,935.0
+Poland,POL,932.0
+South Africa,ZAF,919.0
+Benin,BEN,905.0
+Dominican Rep.,DOM,886.0
+Gabon,GAB,866.0
+Israel,ISR,855.0
+Philippines,PHL,645.0
+Czechia,CZE,637.0
+Montenegro,MNE,631.0
+Slovakia,SVK,628.0
+Madagascar,MDG,558.0
+Malawi,MWI,531.0
+Bolivia,BOL,468.0
+Papua New Guinea,PNG,452.0
+Namibia,NAM,447.0
+Bulgaria,BGR,393.0
+Equatorial Guinea,GNQ,389.0
+Trinidad and Tobago,TTO,351.0
+"China, Hong Kong SAR",HKG,350.0
+Zambia,ZMB,324.0
+Bahrain,BHR,304.0
+Argentina,ARG,300.0
+Barbados,BRB,298.0
+Guyana,GUY,248.0
+Mauritius,MUS,245.0
+Dem. People's Rep. of Korea,PRK,239.0
+Panama,PAN,233.0
+United Arab Emirates,ARE,229.0
+Canada,CAN,223.0
+Thailand,THA,222.0
+United Kingdom of Great Britain and Northern Ireland,GBR,210.0
+Germany,DEU,209.0
+Fiji,FJI,207.0
+Costa Rica,CRI,207.0
+Saint Vincent and the Grenadines,VCT,157.0
+Paraguay,PRY,155.0
+Botswana,BWA,150.0
+Latvia,LVA,138.0
+Eswatini,SWZ,128.0
+Italy,ITA,124.0
+Saint Lucia,LCA,117.0
+Mozambique,MOZ,117.0
+Rep. of Korea,KOR,107.0
+Greece,GRC,102.0
+Oman,OMN,95.0
+Uruguay,URY,93.0
+Dominica,DMA,73.0
+Belize,BLZ,72.0
+Maldives,MDV,70.0
+Grenada,GRD,70.0
+Netherlands (Kingdom of the),NLD,67.0
+Antigua and Barbuda,ATG,67.0
+Lithuania,LTU,63.0
+Estonia,EST,60.0
+Qatar,QAT,58.0
+Spain,ESP,56.0
+Belgium,BEL,53.0
+France,FRA,50.0
+Japan,JPN,48.0
+Portugal,PRT,45.0
+Suriname,SUR,42.0
+Tonga,TON,41.0
+New Zealand,NZL,39.0
+Singapore,SGP,37.0
+Solomon Islands,SLB,36.0
+Australia,AUS,29.0
+French Guiana,GUF,28.0
+Sweden,SWE,23.0
+Austria,AUT,23.0
+Saint Kitts and Nevis,KNA,21.0
+Turks and Caicos Islands,TCA,19.0
+Cabo Verde,CPV,19.0
+Guadeloupe,GLP,17.0
+Norway,NOR,17.0
+Samoa,WSM,16.0
+"China, Macao SAR",MAC,15.0
+Lesotho,LSO,12.0
+Sao Tome and Principe,STP,11.0
+Seychelles,SYC,10.0
+Curacao ,CUW,8.0
+Nauru,NRU,7.0
+Slovenia,SVN,7.0
+Niue,NIU,6.0
+Bermuda,BMU,5.0
+Palau,PLW,5.0
+Luxembourg,LUX,5.0
+Vanuatu,VUT,5.0
+Cyprus,CYP,5.0
